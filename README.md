@@ -12,7 +12,7 @@
   </p>
 </h3>
 
-- 🔭 Currently working on a mobile app version of our app Titan with [Young yu](https://github.com/youngbryanyu)
+- 🔭 Currently working on a mobile app version of our app Titan with [Young Yu](https://github.com/youngbryanyu)
 - 🌱 Learning Dart and Flutter right now
 - 🏃‍♂️ Aside from programming, I'm into running and lifting!
 
