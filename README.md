@@ -4,13 +4,13 @@
   </p>
 </h1>
 
-<h3>
+<h4>
   <p align=center>
     <i>
       I'm a software developer challenging myself by making projects that I'm interested in and learning new technologies along the way. 
     </i>
   </p>
-</h3>
+</h4>
 
 - 🔭 Currently working on a mobile app version of our app Titan with [Young Yu](https://github.com/youngbryanyu)
 - 🌱 Learning Dart and Flutter right now
