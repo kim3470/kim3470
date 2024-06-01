@@ -12,8 +12,8 @@
   </p>
 </h4>
 
-- 🔭 Currently working on a mobile app version of our app Titan with [Young Yu](https://github.com/youngbryanyu)
-- 🌱 Learning Dart and Flutter right now
+- 🔭 Currently building a little portfolio website
+- 🌱 Learning GoLang right now!
 - 🏃‍♂️ Aside from programming, I'm into running and lifting!
 
 Here's where you can reach me: <br>
