@@ -7,14 +7,14 @@
 <h4>
   <p align=center>
     <i>
-      I'm a software developer challenging myself by making projects that I'm interested in and learning new technologies along the way. 
+      I'm a software developer challenging myself to learn and see wonder in the world :)
     </i>
   </p>
 </h4>
 
-- 🔭 Currently building a little portfolio website
-- 🌱 Learning GoLang right now!
-- 🏃‍♂️ Aside from programming, I'm into running and lifting!
+- 🔭 Currently finding some OSS that I'd like to contribute to
+- 🌱 Learning some frontend stuff right now!
+- 🏃‍♂️ Aside from programming, I'm into exercise, reading cool short stories, and finding new music
 
 Here's where you can reach me: <br>
 [<img src="https://github.com/kim3470/kim3470/assets/70349283/0f90eea6-d4b3-4982-9983-98b00fe48c75" width=75>](aaronkim0928@gmail.com) 
