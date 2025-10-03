@@ -4,9 +4,9 @@
   </p>
 </h1>
 
-- I'm an entry-level SWE currently at Apple.
+- I'm a junior SWE at Apple.
 - Currently browsing some OSS that I've used and looking for chores/issues that I could resolve.
-- I'm currently learning GoLang and trying to create a basic server and do the advent of code in it.
+- Also learning GoLang and trying to create a basic server and do the advent of code in it.
 
 Here's where you can reach me: <br>
 [<img src="https://github.com/kim3470/kim3470/assets/70349283/0f90eea6-d4b3-4982-9983-98b00fe48c75" width=75>](aaronkim0928@gmail.com) 
