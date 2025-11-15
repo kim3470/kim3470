@@ -1,6 +1,6 @@
 <h1>
   <p align=center>
-    <img src = "https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" height=75> Hi, I'm Aaron. Nice to meet you <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width=75>
+    Aaron Kim 
   </p>
 </h1>
 
